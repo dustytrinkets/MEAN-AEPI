@@ -1,0 +1,9 @@
+{
+	"nombre": "laura",
+	"edad": 28,
+	"direccion":
+	{
+		"ciudad":"madrid",
+		"cp":28005
+	}
+}

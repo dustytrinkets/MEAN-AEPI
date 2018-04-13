@@ -1,0 +1,15 @@
+// nombre, lista de nombres de actores, datos de un director (objeto), lista de géneros, rating de la pelicula(0-10)
+
+
+{
+	"titulo":"El club de la lucha",
+	"actores":[
+		{
+			"nombre":"Brad Pitt"
+		},
+		{
+			"nombre":"Edward Norton"
+		}
+	]
+	
+}
